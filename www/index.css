@@ -1,0 +1,19 @@
+:root {
+
+    --theme-dark-primary: #303030;
+    --theme-dark-secondary: #313131;
+    --theme-dark-tertiary: #a5ff71;
+    --theme-dark-quaterny: #96fb5c;
+    --theme-dark-quinary: #f9f9f9;
+
+}
+
+.hero {
+
+    display: block;
+    box-sizing: border-box;
+    height: 500px;
+    background-color: var(--theme-dark-tertiary);
+    clip-path: ellipse(204% 100% at 142.4% 0%);
+
+}
