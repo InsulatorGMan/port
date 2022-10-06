@@ -8,14 +8,18 @@
 
 }
 
-body {
+* {
 
-    background-color: var(--theme-dark-primary);
     margin: 0%;
     padding: 0%;
 
 }
 
+body {
+
+    background-color: var(--theme-dark-primary);
+
+}
 
 .hero {
 
